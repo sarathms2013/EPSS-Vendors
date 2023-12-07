@@ -58,6 +58,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | VulnCheck | VulnCheck Exploit & Vulnerability Intelligence | https://vulncheck.com/product/exploit-intelligence |
 | Vulners | Vulners Database | https://vulners.com/search |
 | Wiz | Wiz Platform | https://www.wiz.io/ |
+|ServiceNow | Vulnerability Response | https://docs.servicenow.com/bundle/vancouver-security-management/page/product/secops-integration-vr/epss/concept/epss-vr-integration-overview.html
 
 Coming Soon
 | SOOS |
